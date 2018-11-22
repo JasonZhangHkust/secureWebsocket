@@ -1,0 +1,14 @@
+{
+  "name": "secureserver",
+  "version": "1.0.0",
+  "description": "a wrapper contains http & ws",
+  "dependencies": {
+    "ws": "~6.0.0",
+    "jsonwebtoken": "~8.4.0"
+  },
+  "main": "SecureServer.js",
+  "keywords": [
+    "server"
+  ],
+  "license": "MIT"
+}
