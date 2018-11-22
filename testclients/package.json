@@ -1,0 +1,13 @@
+{
+  "name": "secureclient",
+  "version": "1.0.0",
+  "description": "a TLS protected ws client",
+  "dependencies": {
+    "ws": "~6.0.0"
+  },
+  "main": "SecureServer.js",
+  "keywords": [
+    "server"
+  ],
+  "license": "MIT"
+}
